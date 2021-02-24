@@ -5,7 +5,7 @@ Tools used
 IDE : Xcode 11.3
 Swift : 4.2
 
-Hi, As per the requirements I have developed iOS Weather app within the given time limit.
+Hi, As per the requirements(almost which are mentioned) I have developed iOS Weather app within the given time limit.
 
 Pls find the contents of app as below.
 
